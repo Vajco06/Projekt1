@@ -30,8 +30,6 @@ Zde je chéma zapojení simulace závodních světel
 
 Toto je kód pro simulaci závodních světel. Tento kód funguje na funkci if, když se změní signál na tlačítku tak se spustí funkce a to samé s druhým tlačítkem.
 
-![image](https://github.com/Vajco06/Projekt1/assets/154622913/221ffc50-6490-4092-b16c-1f88a2c2af76)
-
 Toto je kód na displej. V kódu se musí nadefinovat výška a šířka displeje a poté se už jenom nastavuje kurzor a co má napsat, ještě jsem se nenaučil kreslit. 
 
 ## Spolupracovníci
