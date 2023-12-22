@@ -9,7 +9,15 @@ Jelikož jsem blbec a rozbil jsem si druhý displej tak momentálně mám jenom 
 ## Průběh práce na projektu
 Ze začátku roku jsem zkouśel různé projekty napŕ.: ovládání diod pomocí tlačítek nebo přes cloud(viz kódy níže), poté jsem zkoušel programy s displejem, např.: teploměr DHT11 a na displeji se vypisovaly hodnoty z tohoto senzoru. Dále jsem zkoušel s 5 červenými diodami a 2 tlačítky udělat kód, který simuloval start 5 světel při motorsportových závodech, jedno tlačítko seplo postupné rozsvícení světel a druhé je vyplo, zde jsem se snažil využít interrupty, stále nevím na 100% jak použít tento komand. 
 ## Schémata
+Pro lepší zobrazení a čtení schémat jsem zvolil možnost ukázky zapojení, které jsem vytvořil na Wokwi.com. 
+![image](https://github.com/Vajco06/Projekt1/assets/154622913/bda0052e-48dd-48d4-b043-1e01e8d0d1b1)
+
+Schéma zapojení displeje 
+
+
+![image0 (2)](https://github.com/Vajco06/Projekt1/assets/154622913/f6ab5f72-f40c-4224-b8a0-2ee1c3b87c09)
+Zde je jak jsem zapojil displej (Ahoj, Pepik tam je, aby se něco vypsalo :D)
 ## Kódy
 ## Spolupracovníci
-S displejem mi pomohl Míra Pich a Dominik Bašek, s nimi jsem se snažil při hodinách pochopit zapojení displeje
+Celkově s pochopení ESP32 a HW k němu mi pomohl Míra Pich, Radim Krb a Dominik Bašek, konkrétně s Mírou a Dominikem jsem se snažil při hodinách pochopit zapojení displeje a Radim mi pomohl se naučit zezačátku roku s ESP32
 ## Zdroje
